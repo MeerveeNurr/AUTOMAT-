@@ -1,0 +1,14 @@
+C:\Users\merve\OneDrive\Masaüstü\OTOMAT_2132\OTOMAT_2132\bin\Debug\net8.0\AUTOTOMAT_2132.exe
+C:\Users\merve\OneDrive\Masaüstü\OTOMAT_2132\OTOMAT_2132\bin\Debug\net8.0\AUTOTOMAT_2132.deps.json
+C:\Users\merve\OneDrive\Masaüstü\OTOMAT_2132\OTOMAT_2132\bin\Debug\net8.0\AUTOTOMAT_2132.runtimeconfig.json
+C:\Users\merve\OneDrive\Masaüstü\OTOMAT_2132\OTOMAT_2132\bin\Debug\net8.0\AUTOTOMAT_2132.dll
+C:\Users\merve\OneDrive\Masaüstü\OTOMAT_2132\OTOMAT_2132\bin\Debug\net8.0\AUTOTOMAT_2132.pdb
+C:\Users\merve\OneDrive\Masaüstü\OTOMAT_2132\OTOMAT_2132\obj\Debug\net8.0\AUTOTOMAT_2132.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\OneDrive\Masaüstü\OTOMAT_2132\OTOMAT_2132\obj\Debug\net8.0\AUTOTOMAT_2132.AssemblyInfoInputs.cache
+C:\Users\merve\OneDrive\Masaüstü\OTOMAT_2132\OTOMAT_2132\obj\Debug\net8.0\AUTOTOMAT_2132.AssemblyInfo.cs
+C:\Users\merve\OneDrive\Masaüstü\OTOMAT_2132\OTOMAT_2132\obj\Debug\net8.0\AUTOTOMAT_2132.csproj.CoreCompileInputs.cache
+C:\Users\merve\OneDrive\Masaüstü\OTOMAT_2132\OTOMAT_2132\obj\Debug\net8.0\AUTOTOMAT_2132.dll
+C:\Users\merve\OneDrive\Masaüstü\OTOMAT_2132\OTOMAT_2132\obj\Debug\net8.0\refint\AUTOTOMAT_2132.dll
+C:\Users\merve\OneDrive\Masaüstü\OTOMAT_2132\OTOMAT_2132\obj\Debug\net8.0\AUTOTOMAT_2132.pdb
+C:\Users\merve\OneDrive\Masaüstü\OTOMAT_2132\OTOMAT_2132\obj\Debug\net8.0\AUTOTOMAT_2132.genruntimeconfig.cache
+C:\Users\merve\OneDrive\Masaüstü\OTOMAT_2132\OTOMAT_2132\obj\Debug\net8.0\ref\AUTOTOMAT_2132.dll

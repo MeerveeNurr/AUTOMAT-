@@ -1,0 +1,14 @@
+C:\Users\merve\source\repos\OTOMAT_2132\OTOMAT_2132\obj\Debug\net8.0\OTOMAT_2132.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\source\repos\OTOMAT_2132\OTOMAT_2132\obj\Debug\net8.0\OTOMAT_2132.AssemblyInfoInputs.cache
+C:\Users\merve\source\repos\OTOMAT_2132\OTOMAT_2132\obj\Debug\net8.0\OTOMAT_2132.AssemblyInfo.cs
+C:\Users\merve\source\repos\OTOMAT_2132\OTOMAT_2132\obj\Debug\net8.0\OTOMAT_2132.csproj.CoreCompileInputs.cache
+C:\Users\merve\source\repos\OTOMAT_2132\OTOMAT_2132\bin\Debug\net8.0\OTOMAT_2132.exe
+C:\Users\merve\source\repos\OTOMAT_2132\OTOMAT_2132\bin\Debug\net8.0\OTOMAT_2132.deps.json
+C:\Users\merve\source\repos\OTOMAT_2132\OTOMAT_2132\bin\Debug\net8.0\OTOMAT_2132.runtimeconfig.json
+C:\Users\merve\source\repos\OTOMAT_2132\OTOMAT_2132\bin\Debug\net8.0\OTOMAT_2132.dll
+C:\Users\merve\source\repos\OTOMAT_2132\OTOMAT_2132\bin\Debug\net8.0\OTOMAT_2132.pdb
+C:\Users\merve\source\repos\OTOMAT_2132\OTOMAT_2132\obj\Debug\net8.0\OTOMAT_2132.dll
+C:\Users\merve\source\repos\OTOMAT_2132\OTOMAT_2132\obj\Debug\net8.0\refint\OTOMAT_2132.dll
+C:\Users\merve\source\repos\OTOMAT_2132\OTOMAT_2132\obj\Debug\net8.0\OTOMAT_2132.pdb
+C:\Users\merve\source\repos\OTOMAT_2132\OTOMAT_2132\obj\Debug\net8.0\OTOMAT_2132.genruntimeconfig.cache
+C:\Users\merve\source\repos\OTOMAT_2132\OTOMAT_2132\obj\Debug\net8.0\ref\OTOMAT_2132.dll

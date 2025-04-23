@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OTOMAT_2132/1.0.0": {
+        "runtime": {
+          "OTOMAT_2132.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OTOMAT_2132/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
